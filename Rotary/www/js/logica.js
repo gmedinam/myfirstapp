@@ -3,6 +3,7 @@
 		var geocoder;
 		var bares;
         var bar;
+		alert('Hola 0');
 			          
             /* This function runs when the body is loaded.*/
             var init = function () {
@@ -10,6 +11,7 @@
                     window.setTimeout(function () {
                         $.ui.launch();
                     }, 1500);//We wait 1.5 seconds to call $.ui.launch after DOMContentLoaded fires
+alert('Hola 1');
                 };
             document.addEventListener("DOMContentLoaded", init, false);
             $.ui.ready(function () {
@@ -21,8 +23,9 @@
             function onDeviceReady() {
                 // en android parece que no funciona bien si pones el porcentaje dentro del scroller del intel app framework
                 $("#mapa").css("height",(window.innerHeight-100)+"px");
+
                 $.getJSON('http://serverdenken.dtdns.net/approt/datos.json',
-                
+                alert('Hola 2');
                 	function(data){
                     
                     	bares = data.directorios.directorio;
@@ -30,6 +33,7 @@
                         for (var i = 0; i < bares.length; i++) {
                         	var currentBar = bares[i];
                           	htmlOutput += "<li data-indice='"+i+"'><a href='#details'><span class='imgspan'>";
+							alert('Hola o que se yo');
 							if (currentBar.tipo==="Rotario")
 							{
                           	if (currentBar.foto) {
