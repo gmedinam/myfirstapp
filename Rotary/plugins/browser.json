@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {},
+    "dependent_plugins": {
+        "org.apache.cordova.console": {
+            "PACKAGE_NAME": "com.jcesarmobile.tapasgijon"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.jcesarmobile.tapasgijon"
+        }
+    }
+}

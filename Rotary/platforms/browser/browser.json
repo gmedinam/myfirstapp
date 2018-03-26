@@ -1,0 +1,32 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "org.apache.cordova.console": {
+            "PACKAGE_NAME": "com.jcesarmobile.tapasgijon"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.jcesarmobile.tapasgijon"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/org.apache.cordova.inappbrowser/www/InAppBrowser.js",
+            "id": "org.apache.cordova.inappbrowser.InAppBrowser",
+            "pluginId": "org.apache.cordova.inappbrowser",
+            "clobbers": [
+                "window.open"
+            ]
+        }
+    ],
+    "plugin_metadata": {
+        "org.apache.cordova.console": "0.2.6",
+        "org.apache.cordova.inappbrowser": "0.3.0"
+    }
+}

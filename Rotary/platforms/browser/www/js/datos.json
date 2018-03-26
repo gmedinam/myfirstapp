@@ -1,0 +1,2978 @@
+{"directorios": {
+    "directorio": [
+{
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Clubes / Rotario",
+                    "id": 2332,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+               ]},
+            "correo-electronico": "gmedinam@gmail.com",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Jardín de la Estación n&#508;3, Aguascalientes",
+                {
+                    "content": "Willy - Jardín de la Estación n&#508;3 - Jardín de la Estación n&#508;3, Aguascalientes",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:20 +0100",
+            "foto": {
+                "content": "http://cdn.pagina24.com.mx/content/images/2016/07/08/aguascalientes/local/desayuno1.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Jueves: 9;00 P.M.",
+            "identificador": 1000,
+            "locale": "es",
+            "localizacion": {
+                "content": "21.8637502,-102.2905088",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Willy Medina",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "www.rotarycrea.org",
+            "telefono": {
+                "content": "449 9787565",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.rotary.org",
+            "web": "www..facebook.com/rotarycrea"
+        },
+
+
+		
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Ubicada en el bonito barrio de El Carmen, encontramos esta vinater&#237;a con dos excelentes terrazas en las que saborear buenas tapas y un buen vino y, al mismo tiempo, dejarse envolver por el especial ambiente de una zona, muy concurrida pero a la vez tranquila, que se ha convertido en punto de encuentro de la gente de Gij&#243;n",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ Salustio Regueral, 8.",
+                {
+                    "content": "C/ Salustio Regueral, 8",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:29 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f5/53146/800x597_v1_vinateriamarfil.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9644,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542943 -5.664781",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinater&#237;a Marfil",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9644-vinateria-marfil",
+            "telefono": {
+                "content": "984 493 688",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9644-vinateria-marfil",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Aire acondicionado / climatizador",
+                    "id": 2332,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Cafeteria",
+                    "id": 2345,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "laesquilavinateria@gmail.com",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Calle Caridad n&#186;3, Gij&#243;n",
+                {
+                    "content": "La Esquila - C/ Caridad n&#186;3 - Calle Caridad n&#186;3, Gij&#243;n",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:20 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f4/43688/817x512_v1_laesquila.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "L a D: 12:00-16:30h / 19:00-00:00h",
+            "identificador": 9378,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539858 -5.655333",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinoteca La Esquila",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9378-vinoteca-la-esquila",
+            "telefono": {
+                "content": "985 17 21 54",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9378-vinoteca-la-esquila",
+            "web": "www..facebook.com/Laesquila"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. Roces, 930 - 33209 Gij&#243;n",
+                {
+                    "content": "Avda. Roces, 930 - 33209 Gij&#243;n",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:20 +0100",
+            "horario": "",
+            "identificador": 9375,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.520217 -5.68222",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "La Garnacha",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9375-la-garnacha",
+            "telefono": {
+                "content": "984 39 28 54",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9375-la-garnacha",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Prendes Pando, 8 - 33207",
+                {
+                    "content": "Prendes Pando, 8 - 33207",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:20 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f4/41782/342x312_v1_labellota.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9358,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537113 -5.666261",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Taberna La Bellota",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9358-taberna-la-bellota",
+            "telefono": {
+                "content": "984 19 03 99",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Restaurantes y sidrer&#237;as,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9358-taberna-la-bellota",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. del Mar Cant&#225;brico, 10 - 33204 Gij&#243;n",
+                {
+                    "content": "Avda. del Mar Cant&#225;brico, 10 - 33204 Gij&#243;n",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:19 +0100",
+            "horario": "",
+            "identificador": 9355,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.523527 -5.653563",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Bodega La Parrala",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9355-bodega-la-parrala",
+            "telefono": {
+                "content": "984 39 35 19",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9355-bodega-la-parrala",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "El lugar ideal para tomarse un buen vino con mejor tapa. Almuerzos, cenas, acepta reservas y dispone de servicio de comida para llevar.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Carmen, 9 - 33206 Gij&#243;n",
+                {
+                    "content": "Calle Carmen, 9 - 33206 Gij&#243;n",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f4/40081/960x510_v1_entretolosaybarbosa.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "De lunes a jueves: 12:00 - 15:00 h. y 19:30 - 23:00 h.<br/>Viernes: 12:00 - 15:00 h. y 19:30 - 00:00 h.<br/>S&#225;bado: 13:00 - 15:00 h. y 19:30 - 23:00 h.<br/>Domingo: 13:00 - 15:00 h.",
+            "identificador": 9318,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.54161 -5.66611",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Entre Tolosa y Barbosa",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9318-entre-tolosa-y-barbosa",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9318-entre-tolosa-y-barbosa",
+            "web": "http://es-es.facebook.com/pages/Entre-Tolosa-y-Barbosa/245102475571557"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "lasartendegion@gmail.com",
+            "descripcion": {
+                "content": "Comida Espa&#241;ola - Especialidad en tablas y sartenes variadas. <br/> <br/> \r\nAmplia carta de ensaladas, raciones, tablas fr&#237;as y cachondas (puedes \r\nelegir hasta cuatro ingredientes, uno de ellos fr&#237;os), sartenes con huevos de \r\npita d'aldea + &#161;el ingrediente que t&#250; elijas!<br/> <br/>Y nuestros postres caseros...",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Santa Dorad&#237;a, 24 - 33202 Gij&#243;n",
+                {
+                    "content": "Santa Dorad&#237;a, 24 - 33202 Gij&#243;n",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f4/40080/180x141_v1_lasarten.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9317,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537795 -5.657192",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Taberna - Vinater&#237;a La Sart&#233;n",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9317-taberna-vinateria-la-sarten",
+            "telefono": {
+                "content": "984 49 30 90",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Restaurantes y sidrer&#237;as,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9317-taberna-vinateria-la-sarten",
+            "web": "http://es-es.facebook.com/pages/Taberna-Vinateria-La-Sarten/279599185446840?sk=info"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de las Industrias, 26 - 33213 Gij&#243;n",
+                {
+                    "content": "Avda. de las Industrias, 26 - 33213 Gij&#243;n",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f4/40076/300x300_v1_vinateriacasaelmozu.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9314,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537148 -5.698173",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinater&#237;a Casa el Mozu",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9314-vinateria-casa-el-mozu",
+            "telefono": {
+                "content": "985 32 44 91",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9314-vinateria-casa-el-mozu",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "&#211;scar Olavarr&#237;a, 8 - 33201",
+                {
+                    "content": "&#211;scar Olavarr&#237;a, 8 - 33201",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/39838/960x720_v1_tabernagigia.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9307,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.545888 -5.664276",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "La Taberna Gigia",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9307-la-taberna-gigia",
+            "telefono": {
+                "content": "984 49 04 19",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9307-la-taberna-gigia",
+            "web": "http://tabernagigia.blogspot.com/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Arzobispo Vald&#233;s, 1 - 33201",
+                {
+                    "content": "Arzobispo Vald&#233;s, 1 - 33201",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/39868/179x96_v1_elcallejon.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9306,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.545222 -5.662972",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Callej&#243;n Bar",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9306-el-callejon-bar",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9306-el-callejon-bar",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Doctor Aquilino Hurl&#233;, 42 - 33202",
+                {
+                    "content": "Doctor Aquilino Hurl&#233;, 42 - 33202",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "horario": "",
+            "identificador": 9297,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539955 -5.646954",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinoteca El Rinc&#243;n",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9297-vinoteca-el-rincon",
+            "telefono": {
+                "content": "692 15 17 80",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9297-vinoteca-el-rincon",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Doctor Aquilino Hurl&#233;, 24",
+                {
+                    "content": "Doctor Aquilino Hurl&#233;, 24",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "horario": "",
+            "identificador": 9291,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539263 -5.647383",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Caf&#233;-Vinater&#237;a El Badulaque",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9291-cafe-vinateria-el-badulaque",
+            "telefono": {
+                "content": "686 38 25 54",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9291-cafe-vinateria-el-badulaque",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Martes cerrado.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Ezcurdia, 25 - 33202",
+                {
+                    "content": "Ezcurdia, 25 - 33202",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/39720/131x142_v1_TabernaBerciana.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9290,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Taberna Berciana",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9290-taberna-berciana",
+            "telefono": {
+                "content": "985 37 20 80",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Restaurantes y sidrer&#237;as,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9290-taberna-berciana",
+            "web": "http://www.tabernaberciana.com/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Manso, 18 - 33203",
+                {
+                    "content": "Manso, 18 - 33203",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/39709/180x170_v1_bochinche.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9285,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539699 -5.648628",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinater&#237;a El Bochinche",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9285-vinateria-el-bochinche",
+            "telefono": {
+                "content": "985 37 42 32",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9285-vinateria-el-bochinche",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Aguado, 1",
+                {
+                    "content": "Aguado, 1",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:17 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/39366/765x506_v1_reconquista.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 9262,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537513 -5.650419",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinater&#237;a Reconquista",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9262-vinateria-reconquista",
+            "telefono": {
+                "content": "985 33 46 99",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9262-vinateria-reconquista",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Descansa: Domingo noche y Lunes<br/><br/>Siempre con ambiente, es uno de los locales m&#225;s placenteros de la ciudad. Peque&#241;o y coqueto, cuenta con m&#225;s de veinte vinos por copas.<br/><br/><ul><li>Permite la entrada de mascotas en el establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Aguado, 30. 33202. Gij&#243;n.",
+                {
+                    "content": "Aguado, 30. 33202. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:06:00 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37394/500x334_v1_lucense.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8407,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538995 -5.648789",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Lucense",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8407-lucense",
+            "telefono": {
+                "content": "+ 34 985 133 345",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8407-lucense",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<ul><li>Permiten la entrada de animales siempre que no molesten y sean peque&#241;os.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Instituto, 7. 33201. Gij&#243;n.",
+                {
+                    "content": "Calle Instituto, 7. 33201. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:58 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37254/640x478_v1_chacinas.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8327,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.544287 -5.663471",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinos y Chacinas",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8327-vinos-y-chacinas",
+            "telefono": {
+                "content": "+ 34 984 395 535",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8327-vinos-y-chacinas",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Calle Santa Luc&#237;a, 5. 33206. Gij&#243;n.",
+                {
+                    "content": "Calle Santa Luc&#237;a, 5. 33206. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:57 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37252/720x538_v1_sinatra.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8319,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.543163 -5.663852",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinater&#237;a Sinatra",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8319-vinateria-sinatra",
+            "telefono": {
+                "content": "626 203 228",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8319-vinateria-sinatra",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Calle Poeta Alfonso Cam&#237;n, 5",
+                {
+                    "content": "Calle Poeta Alfonso Cam&#237;n, 5",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:57 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37250/450x338_v1_Barricas.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8312,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.531901 -5.65999",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinater&#237;a La Barrica",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8312-vinateria-la-barrica",
+            "telefono": {
+                "content": "+ 34 984 492 170",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8312-vinateria-la-barrica",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Un bonito local y dos terrazas donde poder tomar desde un buen vino, acompa&#241;ado de buenas tapas, hasta un cava o gin tonic, disfrutando al mismo tiempo de las interesantes exposiciones de arte que cuelgan habitualmente de sus paredes. Todo ello en El Carmen, la zona de moda para tomar vinos en Gij&#243;n.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ Salustio Regueral, 10. 33206. Gij&#243;n.",
+                {
+                    "content": "C/ Salustio Regueral, 10. 33206. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:57 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37247/960x640_v1_canaa.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8298,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542903 -5.66471",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinater&#237;a Canaa",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8298-vinateria-canaa",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8298-vinateria-canaa",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<ul><li>Permite la entrada de mascotas en el establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avenida de manuel Llaneza, 50. 33208. Gij&#243;n.",
+                {
+                    "content": "Avenida de manuel Llaneza, 50. 33208. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:56 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37235/266x199_v1_uvas.jpeg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8285,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.535001 -5.665729",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Uvas u Vienes",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8285-uvas-u-vienes",
+            "telefono": {
+                "content": "984 19 45 60",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8285-uvas-u-vienes",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "vinateria@puntoenboca.es",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">El d&#237;a 5 de Junio de 2009 inauguramos PUNTO EN BOCA VINATERIA en el barrio de Pumarin (Gij&#243;n). Ese d&#237;a fue todo un &#233;xito, y desde entonces no hemos dejado de trabajar para ofrecer a nuestros clientes lo mejor que tenemos...nuestros vinos, nuestras tapas y lo mas importante, un excelente equipo humano.<br/><br/>Para que puedas disfrutar de tu bebida favorita al aire libre, contamos tambi&#233;n con 13 mesas de terraza al lado del parque en los meses estivales, que este a&#241;o ya pod&#233;is encontrar desde el mes de abril.<br/><br/>Si quieres ver solo una peque&#241;a parte de lo que te espera en nuestra vinater&#237;a, puedes echarle un vistazo a la secci&#243;n NUESTROS VINOS y a la GALERIA DE FOTOS, pero no te enga&#241;es, tambi&#233;n puedes encontrarte muchas sorpresas!!!!<br/><br/><\/div>&#191;TE ATREVES?<br/><br/><ul><li>No admite animales.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle R&#237;o Eo, 31. 33210. Gij&#243;n.",
+                {
+                    "content": "Calle R&#237;o Eo, 31. 33210. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:53 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37200/448x336_v1_punto.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8205,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.524589 -5.675224",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Punto en Boca",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8205-punto-en-boca",
+            "telefono": {
+                "content": "+ 34 984 397 378",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8205-punto-en-boca",
+            "web": "http://www.puntoenboca.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "info@lacanadarealgijon.es",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">Una decoraci&#243;n marcada por tonos tierra y la cuidada iluminaci&#243;n, \r\nhacen de nuestro local un lugar &#237;ntimo y acogedor, que har&#225; que te \r\nsientas como en casa. Puedes disfrutar de una de las diversas tapas, siempre escoltadas con\r\n una buena copa de vino, o pasar a nuestro comedor, y observar y sentir \r\ncomo nuestro equipo de cocina da forma a cada plato.<br/><br/><\/div>\r\n<p style=\"text-align: justify;\">La gran experiencia que nos avala, hace que sepamos combinar a la \r\nperfecci&#243;n la alta cocina m&#225;s innovadora combinada con lo tradicional, \r\nsin olvidar nuestro inter&#233;s por evolucionar, haciendo especial hincapi&#233; \r\nen la calidad de nuestras materias primas.<\/p>\r\n<p style=\"text-align: justify;\">Nuestra carta es capaz de satisfacer cualquier paladar. D&#233;jate \r\nseducir por nuestros innovadores entrantes, tostas, tapas, pescados, \r\ncarnes y un sinf&#237;n de posibilidades.<\/p>\r\n<p style=\"text-align: justify;\">Para los que les gusta refrescarse, disfruta de la mejor cerveza, \r\nextra&#237;da de originales barriles incluidos en el interiorismo. Tambi&#233;n \r\npuedes acomodarte en la amplia terraza. Sea cual sea tu gusto, te invitamos a que nos conozcas. No te arrepentir&#225;s.<\/p><ul><li>Admite animales en la zona de terraza.<br/><\/li><\/ul><p style=\"text-align: justify;\"><br/><\/p>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Aurelio del Llano, 19. 33208. Gij&#243;n.",
+                {
+                    "content": "Calle Aurelio del Llano, 19. 33208. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:50 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37171/90x56_v1_tosta.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8134,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.53301 -5.662318",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "La Ca&#241;ada Real",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8134-la-canada-real",
+            "telefono": {
+                "content": "+ 34 984 195 764",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Restaurantes y sidrer&#237;as,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8134-la-canada-real",
+            "web": "http://www.lacanadarealgijon.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "info@labodegadenajera.es",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">N&#225;jera es un pequeno pueblo situado en La Rioja. Localidad que bien \r\nmerece una visita tanto por su gastronom&#237;a como por sus vinos y \r\npatrimonio hist&#243;rico. En La Bodega de N&#225;jera te acercamos sus sabores, \r\nven a conocernos, tu rinc&#243;n de La Rioja en Gij&#243;n.<br/><br/>La carta de vinos, cuenta con vinos j&#243;venes, robles,\r\n crianzas, reservas y un largo etc&#233;tera. En definitiva vinos de todos \r\nlos tipos, a&#241;adas y precios. Escoge el adecuado para cada momento entre \r\nnuestras 60 referencias de distinta Denomincaci&#243;n de Origen.<br/><br/>Son especialistas en montaditos, pinchos y platos de cocina riojana. <br/><\/div><br/><span style=\"font-weight: bold;\">Descansa:<\/span> Mi&#233;rcoles",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Enrique Mart&#237;nez, 2. 33205. Gij&#243;n.",
+                {
+                    "content": "Calle Enrique Mart&#237;nez, 2. 33205. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:50 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37166/310x308_v1_najera.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8127,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537338 -5.654615",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "La Bodega de N&#225;jera",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8127-la-bodega-de-najera",
+            "telefono": {
+                "content": "+ 34 985 132 587",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Restaurantes y sidrer&#237;as,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8127-la-bodega-de-najera",
+            "web": "http://www.labodegadenajera.es/index.html"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<p style=\"text-align: justify;\">Gota a gota, hemos hecho un sue&#241;o realidad. Con el mejor ambiente, la m&#225;s completa selecci&#243;n de vinos y la clientela m&#225;s selecta.<\/p><div style=\"text-align: justify;\">\r\n<\/div><p style=\"text-align: justify;\">Desde primera hora de la ma&#241;ana podr&#225;s disfrutar de los desayunos m&#225;s completos, avanzando el d&#237;a nos\r\n vamos transformando en uno de los locales m&#225;s especializados en vinos \r\nde esta maravillosa ciudad, para poner el punto final a un d&#237;a \r\ninolvidable con nuestra mejor cocteler&#237;a.<\/p>\r\n<p style=\"text-align: justify;\">En\r\n temporada, nuestra terraza y la reconocida caracterizaci&#243;n de nuestro \r\nlocal para las m&#225;s originales fiestas tem&#225;ticas dejar&#225;n un grato \r\nrecuerdo.<\/p>\r\n<p>Ven y compru&#233;balo.<\/p><ul><li>Admite animales.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avenida del Llano, 21. 33209. Gij&#243;n.",
+                {
+                    "content": "Avenida del Llano, 21. 33209. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:50 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37164/800x600_v1_gota.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8120,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.53026 -5.661427",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Gota a Gota",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8120-gota-a-gota",
+            "telefono": {
+                "content": "+ 34 985 162 156",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8120-gota-a-gota",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "vinacotecagelizarracina@gmail.com",
+            "descripcion": {
+                "content": "La vinacoteca Geli Zarracina en Gij&#243;n, es un local pensado para \r\natender a sus clientes tanto en horario de trabajo como de ocio.\r\n\t\t\t<br/><br/><div style=\"text-align: justify;\">\r\n\t\t\tHecho para disfrutar en un ambiente distendido e informal, disponen\r\n de una gran variedad de tapas y raciones, embutidos, conservas, y \r\ntostas.&#160; Adem&#225;s de, como no, nuestra carta de vinos, de todo tipo, a&#241;ada y precio, siempre el adecuado para cada momento.<br/><br/><ul><li>No admite animales.<br/><\/li><\/ul><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Instituto, 22. 33201. Gij&#243;n.",
+                {
+                    "content": "Calle Instituto, 22. 33201. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:49 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37161/500x375_v1_geli.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8113,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542654 -5.662725",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Geli Zarracina Vinacoteca",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8113-geli-zarracina-vinacoteca",
+            "telefono": {
+                "content": "+ 34 985 170 187",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Restaurantes y sidrer&#237;as,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8113-geli-zarracina-vinacoteca",
+            "web": "http://gelizarracina.com/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "entre-pitosyflautas@hotmail.com",
+            "descripcion": {
+                "content": "<ul><li>Permite la entrada de mascotas al establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Caridad, 3. 33203. Gij&#243;n.",
+                {
+                    "content": "Calle Caridad, 3. 33203. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:49 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37158/515x451_v1_pitos.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8099,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539936 -5.65529",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Entre Pitos y Flautas",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8099-entre-pitos-y-flautas",
+            "telefono": {
+                "content": "+ 34 985 172 154",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8099-entre-pitos-y-flautas",
+            "web": "http://es-es.facebook.com/pitosyflautas?sk=info"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avenida de la Costa, 53",
+                {
+                    "content": "Avenida de la Costa, 53",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:49 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37156/600x400_v1_uvas.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8092,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.53761 -5.65808",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Vi&#241;edo de Alejo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8092-el-vinedo-de-alejo",
+            "telefono": {
+                "content": "+ 34 984 395 424",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8092-el-vinedo-de-alejo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "elrincondecapua@gmail.com",
+            "descripcion": {
+                "content": "<p style=\"text-align: justify;\">El Rinc&#243;n de Capua es un <strong>Bar de Tapas<\/strong> donde encontrar&#225; una oferta gastron&#243;mica variada y original sin olvidarse de la tierra donde est&#225; situado: <strong>Asturias<\/strong>.<\/p><div style=\"text-align: justify;\">\r\n<\/div><p style=\"text-align: justify;\">En la carta encontrar&#225; <strong>ensaladas<\/strong> &#250;nicas, <strong>raciones<\/strong> generosas, <strong>tostas<\/strong> muy sabrosas y unos estupendos <strong>vinos<\/strong>; todo ello regado\r\npor una excelente <strong>sidra<\/strong> y amenizado con buena <strong>m&#250;sica<\/strong>. Todos nuestros platos est&#225;n pensados para compartir y lo cierto es que comer aqu&#237; es realmente econ&#243;mico.<\/p>\r\n<p>Adem&#225;s disponen de un <strong style=\"font-weight: normal;\">Men&#250; del d&#237;a<\/strong> y <strong style=\"font-weight: normal;\">una de las cervezas mejor tiradas<\/strong> de <strong style=\"font-weight: normal;\">Gij&#243;n<\/strong>.<\/p><p><span style=\"font-weight: bold;\">Descanso:<\/span> Lunes<\/p><ul><li>No admite animales.<br/><\/li><\/ul>\r\n<p><\/p>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Capua, 18. 33202. Gij&#243;n.",
+                {
+                    "content": "Calle Capua, 18. 33202. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:48 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37151/751x500_v1_capua.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Martes a viernes: 8:00 a cierre. S&#225;bado y domingo: 11:00 a cierre.",
+            "identificador": 8085,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.540239 -5.658123",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Rinc&#243;n de Capua",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8085-el-rincon-de-capua",
+            "telefono": {
+                "content": "+ 34 984 399 895",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8085-el-rincon-de-capua",
+            "web": "http://www.elrincondecapua.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Moderna vinater&#237;a situada en pleno Barrio de La Arena junto a la playa de San Lorenzo.<br/><br/><ul><li>Permite la entrada de animales al establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Manso, 7 (Esquina Aguado). 33203. Gij&#243;n.",
+                {
+                    "content": "Calle Manso, 7 (Esquina Aguado). 33203. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:48 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37149/360x270_v1_naranjo.jpeg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8078,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539827 -5.649432",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Naranjo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8078-el-naranjo",
+            "telefono": {
+                "content": "+ 34 985 133 027",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8078-el-naranjo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "dbt@delblancoaltinto.es",
+            "descripcion": {
+                "content": "Vinater&#237;a situada en pleno centro del Barrio del Carmen.<br/><br/><ul><li>No permite la entrada de mascotas en el establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Linares Rivas, 18. Barrio del Carmen. 33206. Gij&#243;n.",
+                {
+                    "content": "Calle Linares Rivas, 18. Barrio del Carmen. 33206. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:47 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37136/703x420_v1_home.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8051,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.5427 -5.665751",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Del Blanco al Tinto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8051-del-blanco-al-tinto",
+            "telefono": {
+                "content": "+ 34 984 490 342",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Restaurantes y sidrer&#237;as,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8051-del-blanco-al-tinto",
+            "web": "http://www.delblancoaltinto.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Sencillo local perfecto para tapear.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle San Bernardo, 8 - 33201 Gij&#243;n",
+                {
+                    "content": "Calle San Bernardo, 8 - 33201 Gij&#243;n",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:47 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37130/892x503_v1_cucu.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8044,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.544297 -5.66257",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Cucurrabucu",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8044-cucurrabucu",
+            "telefono": {
+                "content": "(+34) 984 102 652",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8044-cucurrabucu",
+            "web": "http://www.facebook.com/group.php?gid=64541921398"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">Vinater&#237;a y lugar de tapeo situado en pleno centro de la ciudad, concretamente en la ruta de los vinos.<br/><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle San Bernardo, 3. 33201. Gij&#243;n.",
+                {
+                    "content": "Calle San Bernardo, 3. 33201. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:46 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37129/92x92_v1_chaman.jpeg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 8037,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.544411 -5.662371",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Chaman Vinoteca Caf&#233;",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/8037-chaman-vinoteca-cafe",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/8037-chaman-vinoteca-cafe",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">Cafeter&#237;a situada en la centro de Gij&#243;n, muy pr&#243;xima al paseo de bego&#241;a.<br/><\/div><br/><ul><li>Se permite la entrada de animales al establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Covadonga, 17. 33205. Gij&#243;n.",
+                {
+                    "content": "Calle Covadonga, 17. 33205. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:43 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37113/160x120_v1_brocheta.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 7968,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.53875 -5.661813",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Caf&#233; Vinoteca Raymond",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/7968-cafe-vinoteca-raymond",
+            "telefono": {
+                "content": "+ 34 985 171 850",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/7968-cafe-vinoteca-raymond",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Bares y caf&#233;s",
+                    "id": 921,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<span style=\"font-weight: bold;\">Descansa:<\/span> Domingo<br/><br/>Cafeter&#253;a y vinater&#237;a con gran variedad de pinchos.<br/><br/><ul><li>No permite la entrada de animales al establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Santa Dorad&#237;a, 23. 33202. Gij&#243;n.",
+                {
+                    "content": "Calle Santa Dorad&#237;a, 23. 33202. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:05:43 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37112/590x590_v1_domine.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 7961,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538015 -5.65705",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Caf&#233; Vinos D&#243;mine",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/7961-cafe-vinos-domine",
+            "telefono": {
+                "content": "609 973 876",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Bares y caf&#233;s,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/7961-cafe-vinos-domine",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de c&#243;cteles",
+                    "id": 2528,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<ul><li>Permite la entrada de mascotas en el establecimiento solamente en la zona de bar.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Santa Dorad&#237;a, 19. 33202. Gij&#243;n.",
+                {
+                    "content": "Santa Dorad&#237;a, 19. 33202. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:04:49 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37153/180x135_v1_trastero.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 6307,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538837 -5.657152",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Restaurante El Trastero",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/6307-restaurante-el-trastero",
+            "telefono": {
+                "content": "+ 34 984 19 54 36",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Restaurantes y sidrer&#237;as,Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/6307-restaurante-el-trastero",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "Psicotapas@gmail.com",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">Local decorado en tonos Burdeos que cuenta con dos plantas, en las que tomar <span style=\"font-weight: bold;\">m&#225;s de treinta tapas y tostas diferentes a precios asequibles<\/span>. Su carta de vinos por copas est&#225; bien seleccionada, pudiendo escoger entre viente vinos de m&#225;s de doce zonas diferentes. <span style=\"font-weight: bold;\">M&#250;sica chill out<\/span> y ausencia de televisi&#243;n.<br/><\/div><br/><h3>Tapas t&#237;picas<\/h3><ul><li>Solomillo al px con piquillos.<\/li><li>Ensalada de rulo de cabra con crujiente de beicon.<\/li><\/ul><h3>Descansa<\/h3>Martes.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Gloria Fuertes, 10. 33209. Gij&#243;n",
+                {
+                    "content": "Gloria Fuertes, 10. 33209. Gij&#243;n",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/38465/237x213_v1_tapas.jpeg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3369,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.525736 -5.649762",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Psicotapas",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3369-psicotapas",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3369-psicotapas",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">Nuevo local de <span style=\"font-weight: bold;\">original concepto<\/span>, porque es el primero en la ciudad que apuesta por especializarse en vinos italianos, sobre todo de la <span style=\"font-weight: bold;\">regi&#243;n vin&#237;cola de Friuli, cercana a Venecia<\/span>. <br/><br/>El trato es excelente y se puede acompa&#241;ar de tapeo trasalpino. Est&#225;n comenzando tambi&#233;n a trabajar la cocteler&#237;a. Quiz&#225;s les falte ahora completar la oferta con algunos de los grandes vinos italianos por botellas, pero la iniciativa es valiente y digna de aplaudir.<br/><\/div><br/><h3>Tapas t&#237;picas<\/h3><ul><li>Mixto de quesos italianos.<\/li><li>Frico con patatas.<\/li><\/ul><h3>Descansa<\/h3>Domingos.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Marqu&#233;s de San Esteban, 11. 33206. Gij&#243;n.",
+                {
+                    "content": "Marqu&#233;s de San Esteban, 11. 33206. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37154/604x427_v1_mandi.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3368,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.543209 -5.665641",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Mandi",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3368-mandi",
+            "telefono": {
+                "content": "664 314 424",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3368-mandi",
+            "web": "http://es-es.facebook.com/pages/enoteca-Mandi/51495328758?sk=info"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "latasca@latascadecabrales.com",
+            "descripcion": {
+                "content": "<p><span style=\"font-weight: bold;\">Precio m&#237;nimo por persona:<\/span> 25 &#8364;<\/p><div style=\"text-align: justify;\">Sigue realizando un trabajo incansable, y manteniendo un <span style=\"font-weight: bold;\">nivel de vinos alt&#237;simo<\/span>. Pod&#233;is ir tranquilos porque da igual el vino que pid&#225;is, porque estar&#225; a la altura. No cae en el recurso f&#225;cil de buscar marcas desconocidas y sin prestigio. Aqu&#237; <span style=\"font-weight: bold;\">prefieren ir sobre seguro<\/span> y no experimentar con el cliente. Adem&#225;s, se puede picotear con total tranquilidad porque sus tostas y mini raciones acompa&#241;ar&#225;n muy bien los caldos. En la planta superior tiene un coqueto comedor.<br/><\/div><p><br/><\/p><h3>Tapas t&#237;picas<\/h3><ul><li>Cocochas.<\/li><li>Trigueros, gulas y pasas.<\/li><li>Pulpo a la gallega con alioli de frutas.<\/li><\/ul><h3>Descansa<\/h3><p>Domingos.<\/p><ul><li>No permite la entrada de mascotas al establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Cabrales, 41. 33201. Gij&#243;n.",
+                {
+                    "content": "Cabrales, 41. 33201. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "+ 34 985 35 65 42",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37185/665x300_v1_latasca.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a S&#225;bado: 12:30 a 15:45 y 19:30 a 23:30. Viernes y S&#225;bado tardes: 19:30 a 00:30",
+            "identificador": 3367,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538636 -5.659601",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "La Tasca de Cabrales",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3367-la-tasca-de-cabrales",
+            "telefono": {
+                "content": "+ 34 985 171 813",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3367-la-tasca-de-cabrales",
+            "web": "http://www.latascadecabrales.com/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<p><span style=\"font-weight: bold;\">Precio m&#237;nimo por persona:<\/span> 20 &#8364;<\/p><p style=\"text-align: justify;\">Tiene mucho m&#233;rito apostar por el <span style=\"font-weight: bold;\">vino de calidad en un barrio m&#225;s bien sidrero como es El Llano<\/span>. Pero Alejo ha logrado convencer a los parroquianos de que en su casa se sirven solo cosas buenas. Para ello se ha ayudado de <span style=\"font-weight: bold;\">tapas contundentes y muy logradas<\/span> que tienen notable aceptaci&#243;n. La inquietud de su propietario es otro de los secretos del &#233;xito.<br/><\/p><h3>Tapas t&#237;picas<\/h3><ul><li>Sobrinos (tosta con solomillo de cerdo, beicon y crema de queso azul).<\/li><li>Popeyes (tosta con tortilla de espinacas y queso fundido).<\/li><\/ul><h3>Descansa<br/><\/h3><p>Domingo.<\/p><ul><li>No permite la entrada de mascotas al establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Soria, 6. 33208. Gij&#243;n.",
+                {
+                    "content": "Soria, 6. 33208. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/38463/259x194_v1_lagrantabernadeltio.jpeg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3366,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.529633 -5.670791",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "La Gran taberna del t&#237;o",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3366-la-gran-taberna-del-tio",
+            "telefono": {
+                "content": "+ 34 985 147 621",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3366-la-gran-taberna-del-tio",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<p><span style=\"font-weight: bold;\">Precio m&#237;nimo por persona:<\/span> 20 &#8364;<\/p><div class=\"P modulo100 divL\"><div class=\"H \"><div style=\"text-align: justify;\">Es <span style=\"font-weight: bold;\">una de las referencias importantes<\/span> a la hora de tomar vinos en Gij&#243;n. Sobre sus mesas con taburetes se depositan ricas tapas acompa&#241;adas de <span style=\"font-weight: bold;\">caldos de m&#225;s de diez zonas diferentes<\/span>. En la planta superior tienen un coqueto comedor ideal para un condumio m&#225;s reposado y con platos m&#225;s elaborados. Su cava climatizada contiene interesantes sorpresas a precios contenidos.<br/><\/div><br/><h3>Tapas t&#237;picas<\/h3><ul><li>Tosta de queso de cabra con beicon.<\/li><li>Patatas paja con gula.<\/li><\/ul><h3>Descansa<\/h3>Abierto todos los d&#237;as de la semana.<\/div><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Marqu&#233;s de San Esteban, 7. 33206. Gij&#243;n.",
+                {
+                    "content": "Marqu&#233;s de San Esteban, 7. 33206. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37363/298x298_v1_farandula.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3365,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.54203 -5.667583",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "La Far&#225;ndula",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3365-la-farandula",
+            "telefono": {
+                "content": "+ 34 984 296 333",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3365-la-farandula",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<p><span style=\"FONT-WEIGHT: bold\">Precio m&#237;nimo por persona:<\/span> 25 &#8364;<\/p>\r\n<p style=\"text-align: justify;\">Aunque permanece en el apartado de vinotecas, <span style=\"FONT-WEIGHT: bold\">su cocina cobra cada vez m&#225;s protagonismo<\/span> y podr&#237;a estar perfectamente en restaurantes. De hecho, no hay m&#225;s que echarle un vistazo a su carta para darnos cuenta de que all&#237; no se tapea de manera informal, sino que <span style=\"FONT-WEIGHT: bold\">se comen platos muy elaborados<\/span>. En la parte delantera, se sirven caldos riojanos y ribere&#241;os preferiblemente, aunque bien secundados por zonas emergentes.<br/><\/p>\r\n<h3>Platos t&#237;picos<\/h3>\r\n<ul>\r\n<li>Almejas a la sart&#233;n.\r\n<\/li><li>Milhojas de boletus y foie.<\/li><\/ul>\r\n<h3>Descansa<\/h3>\r\n<p>Domingos noche y lunes.<\/p><ul><li>Admite animales en la zona de bar mientras no causen molestias.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Santa Dorad&#237;a, 2. 33202. Gij&#243;n.",
+                {
+                    "content": "Santa Dorad&#237;a, 2. 33202. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37211/298x298_v1_trasiego.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3363,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538723 -5.656921",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Trasiego",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3363-el-trasiego",
+            "telefono": {
+                "content": "+ 34 985 332 568",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3363-el-trasiego",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<p><span style=\"font-weight: bold;\">Precio m&#237;nimo por persona:<\/span> 20 &#8364;<\/p>\r\n<p style=\"text-align: justify;\"><span style=\"font-weight: bold;\">Moderno local de elegante ambiente<\/span>, con quince vinos por copas y una soberbia selecci&#243;n de botellas, en el que se puede tapear en sus mesas de una manera informal y coloquial. Ha supuesto una novedad importante en una zona residencial. Su propietario siente aut&#233;ntica devoci&#243;n por el vino, y busca <span style=\"font-weight: bold;\">constantemente novedades <\/span>que aporten algo diferente.<br/><\/p>\r\n<h3>Platos t&#237;picos<\/h3>\r\n<ul>\r\n<li>Tosta de picadillo con gorgonzola.\r\n<\/li><li>Cecina con parmesano.\r\n<\/li><li>Callos caseros.<\/li><\/ul>\r\n<h3>Descansa<\/h3>\r\n<p>Martes.<\/p><ul><li>Admite animales.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Paco Ignacio Taibo, 5. Viesques. 33204. Gij&#243;n.",
+                {
+                    "content": "Paco Ignacio Taibo, 5. Viesques. 33204. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37431/180x172_v1_elsolardelmarques.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3359,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.531773 -5.644851",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Solar del Marqu&#233;s",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3359-el-solar-del-marques",
+            "telefono": {
+                "content": "+ 34 984 192 272",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3359-el-solar-del-marques",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<div style=\"text-align: justify;\">Es un local que poco a poco <span style=\"font-weight: bold;\">le ha ido cogiendo el pulso a la zona y a su p&#250;blico<\/span>, al que ha ganado no solo por el vino sino tambi&#233;n por el est&#243;mago. Poner una tapa a escoger con cada consumici&#243;n ha sido su gran baza. Preside el local un hermoso olivo que le da un toque original al local, que ha sido decorado con gusto. Alterna en sus pizarras la <span style=\"font-weight: bold;\">Rioja m&#225;s cl&#225;sica con atrevidas propuestas<\/span> de zonas m&#225;s desconocidas. Se echa de menos un servicio un poco m&#225;s profesional.<br/><\/div><br/><h3>Tapas t&#237;picas<\/h3><ul><li>Setas.<\/li><li>Alb&#243;ndigas.<\/li><li>Patatas bravas.<\/li><\/ul><h3>Descansa<\/h3>Domingos.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Antonio Cachero, 5. 33205. Gij&#243;n.",
+                {
+                    "content": "Antonio Cachero, 5. 33205. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/38370/640x509_v1_elolivo.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3358,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.534878 -5.658946",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Olivo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3358-el-olivo",
+            "telefono": {
+                "content": "+ 34 985 147 184",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3358-el-olivo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "elmonjegijon@hotmail.com",
+            "descripcion": {
+                "content": "<p><span style=\"font-weight: bold;\">Precio m&#237;nimo por persona:<\/span> 20 &#8364;<\/p><p style=\"text-align: justify;\">El barrio del Carmen se est&#225; convirtiendo poco a poco en la <span style=\"font-weight: bold;\">nueva ruta de los vinos en la ciudad<\/span>. El Monje re&#250;ne cualidades suficientes para satisfacer cualquier paladar con sus propuestas, que es <span style=\"font-weight: bold;\">recomendable acompa&#241;ar de tostas y embutidos<\/span>. El local tiene un toque de taberna que le da personalidad y colabora al conjunto.<\/p><p style=\"text-align: justify;\">El sitio m&#225;s chulo del barrio de El Carmen de Gij&#243;n para tomarse unos vinitos o unas ca&#241;itas en buena compa&#241;&#237;a y buena atenci&#243;n.<br/><\/p><h3>Tapas t&#237;picas<\/h3><ul><li>Tosta de camembert templado con miel y nueces.<\/li><li>Cecina en aceite especiado sobre cama de queso.<br/><\/li><\/ul><h3>Descansa<\/h3><p>Domingos por la tarde.<\/p><ul><li>No permite la entrada de animales al establecimiento.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Blanca de los R&#237;os, 2. 33202. Gij&#243;n.",
+                {
+                    "content": "Calle Blanca de los R&#237;os, 2. 33202. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:18 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37148/660x880_v1_elmonje.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3357,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542663 -5.665066",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Monje",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3357-el-monje",
+            "telefono": {
+                "content": "+ 34 985 359 425",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3357-el-monje",
+            "web": "http://es-es.facebook.com/pages/Vinater%C3%ADa-El-Monje-Gij%C3%B3n/163994586960581?sk=info"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "elfeudo@hotmail.com",
+            "descripcion": {
+                "content": "<p><span style=\"font-weight: bold;\">Precio m&#237;nimo por persona:<\/span> 25 &#8364;<\/p><p style=\"text-align: justify;\">Feudo de <span style=\"font-weight: bold;\">gourmets y amantes del vino<\/span>, aqu&#237; podemos tomar m&#225;s de veinte vinos por copas excelentemente seleccionados, o escoger una de las <span style=\"font-weight: bold;\">casi doscientas referencias por botellas<\/span>. Los pinchos gratuitos son habituales y abundantes, lo que colabora a un conjunto placentero. Si nos entra el apetito, podemos pasar al comedor donde tomar un men&#250; del d&#237;a o tapear sugerentes propuestas.<br/><\/p><h3>Tapas t&#237;picas<\/h3><ul><li>Tosta de salm&#243;n con gulas.<\/li><li>Sart&#233;n de picadillo con setas y Cabrales.<\/li><\/ul><h3>Descansa<\/h3><p>Domingos.<\/p><ul><li>No admite animales.<br/><\/li><\/ul>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Felipe Men&#233;ndez, 4. 33206. Gij&#243;n.",
+                {
+                    "content": "Felipe Men&#233;ndez, 4. 33206. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:17 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37249/180x135_v1_feudo.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3314,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542297 -5.665512",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Vinater&#237;a El Feudo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3314-vinateria-el-feudo",
+            "telefono": {
+                "content": "+ 34 985 351 659",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3314-vinateria-el-feudo",
+            "web": "http://www.elfeudogijon.com/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Vinos y Tapas",
+                    "id": 961,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastron&#243;mica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Restaurantes y sidrer&#237;as",
+                    "id": 920,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gij&#243;n de Pinchos",
+                    "id": 2743,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<p><span style=\"font-weight: bold;\">Precio m&#237;nimo por persona: <\/span>20 &#8364;<\/p><p style=\"text-align: justify;\">Esta vinoteca es <span style=\"font-weight: bold;\">parte ya de la historia del vino en la ciudad<\/span>. Ha cumplido diez a&#241;os, ha sido testigo de la evoluci&#243;n de los caldos espa&#241;oles y de los consumidores, y ha logrado mantener la esencia del negocio a pesar del cambio de propiedad. Su decoraci&#243;n huye de las modas minimalistas y se caracteriza por una <span style=\"font-weight: bold;\">notable presencia de la madera<\/span> y un original toque r&#250;stico. La selecci&#243;n de vinos por copas abarca casi todas las regiones vin&#237;colas.<br/><\/p><h3 style=\"text-align: justify;\">Tapas t&#237;picas<\/h3><ul><li>Medallones de ternera con boletus.<\/li><li>Revuelto de matachana y piquillos.<\/li><\/ul><h3>Descansa<br/><\/h3><p>Domingos por la tarde y lunes.<br/><\/p><div class=\"P modulo100 divL\"><div class=\"H \"><strong><br/><\/strong><\/div><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Calle Emilio Tuya, 46. 33202. Gij&#243;n.",
+                {
+                    "content": "Calle Emilio Tuya, 46. 33202. Gij&#243;n.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "fecha-actualizacion": "2014-01-22 12:03:17 +0100",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f3/37150/340x341_v1_ElporlalondeRiojaGijon.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "",
+            "identificador": 3313,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538461 -5.648593",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "El Portal&#243;n de Rioja",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3313-el-portalon-de-rioja",
+            "telefono": {
+                "content": "+ 34 984 291 206",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Vinos y Tapas,Restaurantes y sidrer&#237;as,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3313-el-portalon-de-rioja",
+            "web": "http://www.miguelprado.com/web/elportalonderioja/index.asp"
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}
